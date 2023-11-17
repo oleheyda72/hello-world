@@ -1,2 +1,2 @@
-let name=prompt("Яке Ваше ім'я")
+let name=prompt("Яке Ваше ім'я=")
 alert('Hello ,'+name); 
