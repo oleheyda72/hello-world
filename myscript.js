@@ -1,1 +1,2 @@
-alert('Hello World!'); 
+a=prompt("Введіть 1 число")
+b=prompt("Введіть 2 число")
